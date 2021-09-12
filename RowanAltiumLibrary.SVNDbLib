@@ -1,0 +1,50 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=SQLNCLI11.1;Persist Security Info=False;User ID=altiumdesigner;Initial Catalog=altiumdb;Data Source=rowanengr.com,1433;Initial File Name="";Server SPN=""
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=1
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=https://github.com/A-Team-Rowan-University/Altium-Library/trunk/Symbols;https://github.com/A-Team-Rowan-University/Altium-Library/trunk/Footprints
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=altiumdb.altiumdb
+SVNRepositoryURL=https://github.com/A-Team-Rowan-University/Altium-Library
+FileRepositoryIsRelative=0
+[Table1]
+SchemaName=altiumdb
+TableName=altiumdb
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=altiumdb.altiumdb.Rowan Part Number|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Rowan Part Number|FieldType=0|ParameterName=Rowan Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=altiumdb.altiumdb.Manufacturer part number|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Manufacturer part number|FieldType=1|ParameterName=Manufacturer part number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=altiumdb.altiumdb.Description|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=altiumdb.altiumdb.Library Ref|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=altiumdb.altiumdb.Library Path|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=altiumdb.altiumdb.Footprint Ref|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=altiumdb.altiumdb.Footprint Path|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=altiumdb.altiumdb.Number of Bits per Element|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Number of Bits per Element|FieldType=1|ParameterName=Number of Bits per Element|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=altiumdb.altiumdb.Number of Bits|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Number of Bits|FieldType=1|ParameterName=Number of Bits|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=altiumdb.altiumdb.Tolerance|TableNameOnly=altiumdb.altiumdb|FieldNameOnly=Tolerance|FieldType=1|ParameterName=Tolerance|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
