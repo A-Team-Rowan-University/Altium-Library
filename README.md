@@ -1,2 +1,3 @@
-# Altium Database Library
+# Rowan Altium Database Library
 
+The Rowan Altium Database Library exists to help Rowan University students design schematics and PCBs in Altium Designer with components stocked by the ECE Resource Center.  After installing the library in Altium Designer, you will be able to browse all of our available inventory from within Altium and drag and drop parts with consistent and tested schematic symbols and PCB footprints.
