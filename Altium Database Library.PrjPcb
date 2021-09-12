@@ -58,23 +58,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=Symbols\Resistor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
 DocumentPath=Symbols\SCH - PASSIVES - CAPACITOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,9 +72,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EVQDOQWL
 
-[Document4]
+[Document3]
 DocumentPath=Symbols\SCH - PASSIVES - INDUCTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,9 +89,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YPYTDAXB
 
-[Document5]
+[Document4]
 DocumentPath=Symbols\SCH - PASSIVES - POLARISED CAPACITOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,9 +106,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EQBRDGFN
 
-[Document6]
+[Document5]
 DocumentPath=Symbols\SCH - PASSIVES - POTENTIOMETER.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,9 +123,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SXHJKIMP
 
-[Document7]
+[Document6]
 DocumentPath=Symbols\SCH - PASSIVES - RESISTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
