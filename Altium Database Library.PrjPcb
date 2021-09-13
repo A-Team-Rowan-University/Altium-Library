@@ -262,7 +262,7 @@ GenerateClassCluster=0
 DocumentUniqueId=THRMWJAM
 
 [Document14]
-DocumentPath=Footprints\PCB - RESISTOR - AXIAL - RES 04.PCBLIB
+DocumentPath=Footprints\PCB - RESISTOR - AXIAL.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
