@@ -533,6 +533,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVJOLGHM
 
+[Document30]
+DocumentPath=Footprints\PCB - IC - THT - DIP20.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JYNXAYMW
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
