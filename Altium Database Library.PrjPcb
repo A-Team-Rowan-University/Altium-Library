@@ -653,7 +653,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RYUJGTVQ
 
 [Document37]
-DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X2.PCBLIB
+DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X1.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -670,6 +670,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IJABAARC
 
 [Document38]
+DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X2.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YNLLBUSI
+
+[Document39]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOXFWGFT
 
-[Document39]
+[Document40]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LJYCONGS
 
-[Document40]
+[Document41]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -720,7 +737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKLEGYHQ
 
-[Document41]
+[Document42]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -737,7 +754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ADBEQCGC
 
-[Document42]
+[Document43]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -754,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SGMSGCFH
 
-[Document43]
+[Document44]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVOYJSMC
 
-[Document44]
+[Document45]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X9.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,7 +805,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNSGYBOC
 
-[Document45]
+[Document46]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -805,7 +822,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWLCWGNM
 
-[Document46]
+[Document47]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X12.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -822,7 +839,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLUASFAH
 
-[Document47]
+[Document48]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X14.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -839,7 +856,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNYWODHD
 
-[Document48]
+[Document49]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X16.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -856,7 +873,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HITTPCUY
 
-[Document49]
+[Document50]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X18.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -873,7 +890,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUDATVRC
 
-[Document50]
+[Document51]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -890,7 +907,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VWLWCACR
 
-[Document51]
+[Document52]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X22.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -907,7 +924,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOIGNBEU
 
-[Document52]
+[Document53]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X24.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -924,7 +941,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KGSJPOAW
 
-[Document53]
+[Document54]
 DocumentPath=Footprints\PCB - CONNECTOR - HEADER - MALE 1X30.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
