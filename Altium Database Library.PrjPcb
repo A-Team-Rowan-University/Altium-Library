@@ -548,7 +548,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JYNXAYMW
+DocumentUniqueId=YUYTJKBJ
 
 [Document31]
 DocumentPath=Symbols\SCH - CONNECTORS - 14 PIN.SCHLIB
@@ -1061,7 +1061,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document61]
-DocumentPath=Symbols\SCH - MICROCONTROLLER - MSP430G2553IN20.SchLib
+DocumentPath=Symbols\SCH - DIODES - LED.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1075,7 +1075,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SLOWIFPE
+DocumentUniqueId=IAMBRYSF
 
 [Document62]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - ESP01.SchLib
@@ -1092,10 +1092,61 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JYUXVHES
 
 [Document63]
-DocumentPath=Symbols\PCB - MICROCONTROLLER - ESP01.PCBLIB
+DocumentPath=Symbols\SCH - MICROCONTROLLER - MSP430G2553IN20.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SLOWIFPE
+
+[Document64]
+DocumentPath=Symbols\SCH - DRIVER - MOTOR - TRINAMIC TMC2226-SA-T.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OKVYXJWJ
+
+[Document65]
+DocumentPath=Footprints\PCB - LEADED - SOP - TSSOP28.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ATPCEWWS
+
+[Document66]
+DocumentPath=Footprints\PCB - MICROCONTROLLER - ESP01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
