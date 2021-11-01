@@ -1078,6 +1078,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IAMBRYSF
 
 [Document62]
+DocumentPath=Symbols\SCH - DIODES - LED RGB COMMON ANODE.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AXUTSPBH
+
+[Document63]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - ESP01.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1094,7 +1111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYUXVHES
 
-[Document63]
+[Document64]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - MSP430G2553IN20.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLOWIFPE
 
-[Document64]
+[Document65]
 DocumentPath=Symbols\SCH - DRIVER - MOTOR - TRINAMIC TMC2226-SA-T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKVYXJWJ
 
-[Document65]
+[Document66]
 DocumentPath=Footprints\PCB - LEADED - SOP - TSSOP28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATPCEWWS
 
-[Document66]
+[Document67]
 DocumentPath=Footprints\PCB - MICROCONTROLLER - ESP01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1161,6 +1178,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFQHDWAQ
+
+[Document68]
+DocumentPath=Footprints\PCB - DIODE - LED - RGB - COM ANODE 4-PLCC.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GSRWEOFN
 
 [Configuration1]
 Name=Sources
