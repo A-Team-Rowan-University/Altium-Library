@@ -1196,6 +1196,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSRWEOFN
 
+[Document69]
+DocumentPath=Footprints\PCB - LEADED - SOT-23-3.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QOSWIYRF
+
+[Document70]
+DocumentPath=Symbols\SCH - FET - N-CH.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NKIBKYHC
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
