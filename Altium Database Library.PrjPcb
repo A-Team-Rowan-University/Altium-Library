@@ -1230,6 +1230,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKIBKYHC
 
+[Document71]
+DocumentPath=Symbols\SCH - CONNECTORS - BARREL CONNECTOR.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KBGGXBTL
+
+[Document72]
+DocumentPath=Footprints\PCB - CONNECTOR - BARREL - CUI PJ-102.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IITDIECV
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
