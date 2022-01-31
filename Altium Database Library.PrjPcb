@@ -1356,6 +1356,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IGABEALN
 
 [Document78]
+DocumentPath=Footprints\PCB - LEADED - SOT - SOT-223.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QOSWIYRF
+
+[Document79]
 DocumentPath=Symbols\PCB - MICROCONTROLLER - ESP01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1372,7 +1389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document79]
+[Document80]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - STM32G031F8P6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1389,7 +1406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMORADOB
 
-[Document80]
+[Document81]
 DocumentPath=Footprints\PCB - DIODES - SOD523F.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1405,6 +1422,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AQKCRYDB
+
+[Document82]
+DocumentPath=Symbols\SCH - POWER - LINEAR VREG - TI LM317-N.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SOEKIEEJ
 
 [Configuration1]
 Name=Sources
