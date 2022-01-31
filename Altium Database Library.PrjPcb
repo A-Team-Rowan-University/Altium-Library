@@ -35,6 +35,12 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -1061,7 +1067,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document61]
-DocumentPath=Symbols\SCH - DIODES - LED.SCHLIB
+DocumentPath=Symbols\SCH - DIODES - DIODE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1078,6 +1084,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IAMBRYSF
 
 [Document62]
+DocumentPath=Symbols\SCH - DIODES - LED.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IAMBRYSF
+
+[Document63]
 DocumentPath=Symbols\SCH - DIODES - LED RGB COMMON ANODE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1094,7 +1117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXUTSPBH
 
-[Document63]
+[Document64]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - ESP01.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1111,7 +1134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JYUXVHES
 
-[Document64]
+[Document65]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - MSP430G2553IN20.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1128,7 +1151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLOWIFPE
 
-[Document65]
+[Document66]
 DocumentPath=Symbols\SCH - DRIVER - MOTOR - TRINAMIC TMC2226-SA-T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1145,7 +1168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKVYXJWJ
 
-[Document66]
+[Document67]
 DocumentPath=Footprints\PCB - LEADED - SOP - TSSOP28.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1162,7 +1185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ATPCEWWS
 
-[Document67]
+[Document68]
 DocumentPath=Footprints\PCB - MICROCONTROLLER - ESP01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1179,7 +1202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFQHDWAQ
 
-[Document68]
+[Document69]
 DocumentPath=Footprints\PCB - DIODE - LED - RGB - COM ANODE 4-PLCC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1196,7 +1219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSRWEOFN
 
-[Document69]
+[Document70]
 DocumentPath=Footprints\PCB - LEADED - SOT-23-3.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1213,7 +1236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QOSWIYRF
 
-[Document70]
+[Document71]
 DocumentPath=Symbols\SCH - FET - N-CH.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1230,7 +1253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKIBKYHC
 
-[Document71]
+[Document72]
 DocumentPath=Symbols\SCH - CONNECTORS - BARREL CONNECTOR.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1247,7 +1270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KBGGXBTL
 
-[Document72]
+[Document73]
 DocumentPath=Footprints\PCB - CONNECTOR - BARREL - CUI PJ-102.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1264,7 +1287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IITDIECV
 
-[Document73]
+[Document74]
 DocumentPath=Footprints\PCB - CAPACITOR - MLCC - CAP 0_1 RADIAL DISC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1281,7 +1304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILOGIODW
 
-[Document74]
+[Document75]
 DocumentPath=Footprints\PCB - CAPACITOR - MLCC - CAP 0_2 RADIAL DISC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1298,7 +1321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJPYBIHG
 
-[Document75]
+[Document76]
 DocumentPath=Footprints\PCB - CAPACITOR - MLCC - CAP 0_3 RADIAL DISC.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1315,7 +1338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILOGIODW
 
-[Document76]
+[Document77]
 DocumentPath=Footprints\PCB - LEADED - SOP - TSSOP20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1332,7 +1355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGABEALN
 
-[Document77]
+[Document78]
 DocumentPath=Symbols\PCB - MICROCONTROLLER - ESP01.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1349,7 +1372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document78]
+[Document79]
 DocumentPath=Symbols\SCH - MICROCONTROLLER - STM32G031F8P6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1365,6 +1388,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMORADOB
+
+[Document80]
+DocumentPath=Footprints\PCB - DIODES - SOD523F.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AQKCRYDB
 
 [Configuration1]
 Name=Sources
