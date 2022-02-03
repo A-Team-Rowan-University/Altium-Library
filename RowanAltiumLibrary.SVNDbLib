@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=SQLNCLI11.1;Persist Security Info=False;User ID=altiumdesigner;Initial Catalog=altiumdb;Data Source=rowanengr.com,1433;Initial File Name="";Server SPN=""
+ConnectionString=Provider=SQLOLEDB.1;Persist Security Info=False;User ID=altiumdesigner;Initial Catalog=altiumdb;Data Source=altiumdb.rowanengr.com, 1433
 AddMode=3
 RemoveMode=1
 UpdateMode=2
