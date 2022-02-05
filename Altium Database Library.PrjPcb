@@ -1441,6 +1441,40 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document83]
+DocumentPath=Symbols\SCH - POWER - LINEAR VREG - L7805CV.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YCXZTWNT
+
+[Document84]
+DocumentPath=Symbols\SCH - POWER - LINEAR VREG - LD1117.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VNKWCYDG
+
+[Document85]
 DocumentPath=Symbols\SCH - POWER - LINEAR VREG - ST LM317LZ-AP.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1457,7 +1491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document86]
 DocumentPath=Symbols\SCH - POWER - LINEAR VREG - TI LM317-N.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
